@@ -1,0 +1,75 @@
+body {
+    background-color: red;
+    border-style: dashed;
+}
+
+label,
+span {
+    color: white;
+    width: 800px;
+}
+
+.one {
+    width: 300px;
+    height: 100px;
+}
+
+.a {
+    margin-left: 90px;
+}
+
+.b {
+    margin-left: 110px;
+}
+
+.c {
+    margin-left: 60px;
+}
+
+.d {
+    margin-left: 112px;
+}
+
+.e {
+    margin-left: 31px;
+}
+
+.f {
+    margin-left: 134px;
+}
+
+.g {
+    margin-left: 100px;
+}
+
+.h {
+    margin-left: 128px;
+}
+
+.i {
+    margin-left: 108px;
+}
+
+.j {
+    margin-left: 103px;
+}
+
+.k {
+    margin-left: 70px;
+}
+
+.l {
+    margin-left: 29px;
+}
+
+.z {
+    margin-left: 160px;
+}
+
+.y {
+    margin-left: 100px;
+}
+
+.s {
+    margin-left: 200px;
+}
